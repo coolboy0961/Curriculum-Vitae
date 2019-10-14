@@ -64,6 +64,13 @@
 - 自身の開発力を発揮して、メンバーに自分の背中を見せながら、牽引して行く力を持っていること
 - 複数の炎上プロジェクト経験があり、プロジェクトの健全を保つために、どうすればいいか分かること
 
+## 資格
+- 2013/3 普通自動車免許
+- 2018/3 Oracle Certified Java Programmer, Silver SE 8
+- 2018/5 Red Hat Certificate of Expertise in Ansible Automation
+- 2018/6 アジャイルソフトウエア開発技術者検定
+- 2019/2 AWS Certified Solutions Architect - Associate (SAA)
+
 ## 職務履歴
 ### 2013/4 ~ 現在：ソフトバンク株式会社
 #### 2013/7 ~ 2018/3 社内料金システムの開発担当
