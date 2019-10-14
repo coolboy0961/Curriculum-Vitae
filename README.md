@@ -33,7 +33,11 @@
 - Protractor
 - browserStack
 - Docker
-- Nodejs
+
+### ライブラリ管理
+- maven
+- gradle
+- npm
 - pipenv
 
 ### ドキュメント作成
