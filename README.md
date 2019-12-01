@@ -17,6 +17,7 @@
 - Mybatis
 - Vuejs
 - JQuery
+- 社内リアルタイム処理エンジン
 
 ### システム間連携
 - REST API
