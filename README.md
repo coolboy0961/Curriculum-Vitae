@@ -14,7 +14,7 @@
 
 ### フレームワーク
 - SpringBoot
-- mybatis
+- Mybatis
 - Vuejs
 - JQuery
 
