@@ -30,9 +30,16 @@
 - Ansible
 - Jenkins
 - SornarQube
+- Docker
+- Concourse CI
+
+### テスト
+- JUnit5
+- Mockito
+- Wiremock
 - Protractor
 - browserStack
-- Docker
+- pytest
 
 ### ライブラリ管理
 - maven
@@ -49,7 +56,6 @@
 - Azure
 - Pivotal Container Service (PKS)
 - Kubernetes
-- Concourse
 
 ### リーダーシップ
 6名程度のチームをリードする経験は4年間ある
